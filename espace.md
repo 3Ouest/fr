@@ -1,6 +1,6 @@
 # 3 Ouest, espace de travail à Auray, Morbihan
 
-La Galerie Jean-Jacques laisse la place à l'espace 3 Ouest.
+La Galerie Jean-Jacques Rio laisse la place à l'espace 3 Ouest.
 
 ![3ouest](/images/IMG_5078.jpg){: width="600px"}
 
