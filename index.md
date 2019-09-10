@@ -9,7 +9,7 @@ L'espace est composé de plusieurs pièces contigues, sans couloir. Chaque pièc
 - La Galerie
 - Le Salon
 - La Bibliothèque
-- Les bureaux
+- L'Open Space
 - La Deepbox
 - La Terrasse
 - Le Jardin
