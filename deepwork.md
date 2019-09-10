@@ -8,4 +8,4 @@ Dans le cadre de recherches sur le travail profond, David Dewane produit un plan
 
 Un parcours, un modèle pour un nouvel environnement de travail, évoqué par Cal Newport dans son livre Deepwork et dans la lignée des réflexions autour de l’organisation de l’espace du bureau 20 du MIT et des laboratoires Bell, hauts lieux de création et d’innovation. 
 
-![deepwork](/images/deepwork.jpg)
+![deepwork](/images/deepwork.jpg){:width="600px"}
