@@ -222,7 +222,7 @@ a:focus,
 a:visited,
 a:active {
   text-decoration: underline;
-  color: #0053b3;
+  color: #26353f;
   color: var(--theme-primary);
 }
 
@@ -1318,14 +1318,12 @@ h1.hero__white-background {
 
 /* background: var(--darkest-grey); */
 .footer {
-  background: #F86D5A;
-  color: #fff;
-  color: var(--white);
   padding: 2em 0;
   padding: var(--space-l) 0;
 }
 
 .footer a:hover {
+  color: #FFF;
   background: 0;
 }
 
@@ -1361,8 +1359,6 @@ h1.hero__white-background {
 .footer__social .icon {
   width: 35px;
   height: 35px;
-  fill: #fff;
-  fill: var(--white);
 }
 
 .footer__links {
@@ -1378,8 +1374,6 @@ h1.hero__white-background {
 }
 
 .footer__links a {
-  color: #fff;
-  color: var(--white);
   text-decoration: none;
 }
 
